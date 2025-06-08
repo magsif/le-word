@@ -46,3 +46,7 @@ leword-ai/
 │
 └── README.md # 📘 You are here
 ```
+
+## Add .env
+
+Add a .env file to your environment containing the OPENAI_API_KEY=sk..
