@@ -19,7 +19,7 @@ The system uses structured tools, visual rendering, and Pydantic-based communica
 
 ## 🧩 Project Structure
 ```
-leword-ai/
+le-word/
 │
 ├── game/
 │ └── leword_game.py    # Game logic and feedback system
