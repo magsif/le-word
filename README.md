@@ -18,7 +18,7 @@ The system uses structured tools, visual rendering, and Pydantic-based communica
 ---
 
 ## 🧩 Project Structure
-
+```
 leword-ai/
 │
 ├── game/
@@ -45,3 +45,4 @@ leword-ai/
 │ └── two_agents_working.ipynb      # Main notebook with vision & word agents
 │
 └── README.md # 📘 You are here
+```
